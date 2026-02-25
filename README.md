@@ -3,9 +3,9 @@
 </p>
 
 <p>
-  <img src="https://files.catbox.moe/6ryqrt.png" alt="placeholder" width="50">
-  <img src="https://files.catbox.moe/6ryqrt.png" alt="placeholder" width="50">
-  <img src="https://files.catbox.moe/6ryqrt.png" alt="placeholder" width="50">
+  <img src="https://files.catbox.moe/6ryqrt.png" alt="placeholder" width="50" hspace="10">
+  <img src="https://files.catbox.moe/6ryqrt.png" alt="placeholder" width="50" hspace="10">
+  <img src="https://files.catbox.moe/6ryqrt.png" alt="placeholder" width="50" hspace="10">
 </p>
 
 <i> <sub>ps. The question marks are just placeholders.</sub> </i>
